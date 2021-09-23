@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMBaldwin
-- 👀 I’m interested in learning about pythoig and machine learning.
+- 👀 I’m interested in learning about python and machine learning.
 - 🌱 I’m currently working on an machine learning course and exploring basic python.
 - 💞️ I’m looking to collaborate on, not certain yet.  Just getting started.
 - 📫 How to reach me ...
